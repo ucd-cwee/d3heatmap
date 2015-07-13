@@ -22,11 +22,11 @@
   border: 1px solid #CCC;
   overflow: hidden;
 }
-.inner {
+.d3-heatmap .inner {
   position: relative;
   top: -70px;
 }
-.info {
+.d3-heatmap .info {
   position: absolute;
   left: 20px;
   top: 90px;
