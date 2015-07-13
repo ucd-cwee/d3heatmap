@@ -34,10 +34,10 @@ body.theme-dark {
 .d3heatmap .axis rect {
   cursor: pointer;
 }
-.inner {
+.d3heatmap .inner {
   position: relative;
 }
-.info {
+.d3heatmap .info {
   position: absolute;
   left: 20px;
   top: 90px;
